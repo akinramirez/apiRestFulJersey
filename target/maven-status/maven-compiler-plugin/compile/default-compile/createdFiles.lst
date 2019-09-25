@@ -1,0 +1,7 @@
+com\akinramirez\conexion\Conexion.class
+com\akinramirez\model\Categoria.class
+com\akinramirez\api\HolaMundoApi.class
+com\akinramirez\dao\CategoriaDao.class
+com\akinramirez\api\CategoriaApi.class
+com\akinramirez\controller\CategoriaController.class
+com\akinramirez\config\AppConfiguration.class
